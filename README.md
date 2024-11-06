@@ -68,6 +68,14 @@ Me especializo en la creación de soluciones **innovadoras** que integran **aná
 - **Tecnologías:** React Native, Firebase, Redux
 - **Estado:** ✅ Completado
 
+### Localizator Bogotá
+
+> **Descripción:** Una solución de búsqueda y evaluación de locales comerciales en Bogotá, impulsada por analítica de datos para la toma de decisiones estratégicas.
+
+- **Tecnologías:** Python, Django, PostgreSQL, Google Places API
+- **Estado:** 🔄 En desarrollo
+  
+
 ---
 
 ## 🏆 Experiencia
