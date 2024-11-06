@@ -1,5 +1,8 @@
 # 🌟👨‍💻 Bienvenido a mi Portafolio 👨‍💻🌟
 
+[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-blue?style=for-the-badge)](https://enlace-al-proyecto.com)
+
+
 
 ¡Hola! Soy **Iván David Barajas Hurtado**, un **Analista de Datos** y **Desarrollador** con experiencia en la extracción de información valiosa para la toma de decisiones estratégicas que impulsan el éxito de los negocios. Me especializo en el análisis y visualización de grandes volúmenes de datos para generar **insights** que faciliten la optimización de procesos y la identificación de oportunidades de crecimiento. Además, tengo un enfoque integral en el desarrollo de **aplicaciones móviles**, donde me apasiona crear soluciones tecnológicas innovadoras y eficientes. A lo largo de mi carrera, he trabajado en proyectos que van desde la recopilación de datos hasta la implementación de sistemas escalables, con un fuerte compromiso por la mejora continua y el uso de herramientas de vanguardia. Mi objetivo es siempre contribuir a la **evolución digital** de las empresas, asegurando la calidad y el impacto de cada proyecto en el que participo.
 
@@ -68,7 +71,8 @@ Me especializo en la creación de soluciones **innovadoras** que integran **aná
 - **Tecnologías:** React Native, Firebase, Redux
 - **Estado:** ✅ Completado
 
-### Localizator Bogotá
+### 3. [**Localizator Bogotá**](https://github.com/ibarajas248/Hackathon-TalentoTECH-Locales-Comerciales)
+
 
 > **Descripción:** Una solución de búsqueda y evaluación de locales comerciales en Bogotá, impulsada por analítica de datos para la toma de decisiones estratégicas.
 
