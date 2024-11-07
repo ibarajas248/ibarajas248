@@ -56,7 +56,7 @@ Me especializo en la creación de soluciones **innovadoras** que integran **aná
 
 ## 🌍  Proyectos Destacados
 
-### 1. [**Gestión Digital del Archivo del Museo Thyssen-Bornemisza**](enlace-del-repositorio)  
+### 1. [**Gestión Digital del Archivo del Museo Thyssen-Bornemisza**](https://github.com/ibarajas248/coleccion-thyssen-bornemisza_)  
 > **Descripción:** Una aplicación web de **[funcionalidad del proyecto]**. Este proyecto utiliza **[tecnologías]** y está diseñado para **[objetivo del proyecto]**.  
 - **Tecnologías:** HTML, CSS, JavaScript, React
 - **Estado:** ✅ Completado
