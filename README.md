@@ -95,7 +95,7 @@ Me especializo en la creación de soluciones **innovadoras** que integran **aná
 
 Si deseas colaborar en un proyecto, aprender algo nuevo o simplemente conversar sobre tecnología, ¡será un placer conectar contigo!
 
-- ✉️ **Correo electrónico:** [tuemail@ejemplo.com]
+- ✉️ **Correo electrónico:** ivanbarajashurtado@gmail.com
 - 🌐 **LinkedIn:** [Tu Perfil LinkedIn](enlace-a-perfil)
 - 🐦 **Twitter:** [Tu Twitter](enlace-a-twitter)
 
