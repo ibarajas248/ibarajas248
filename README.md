@@ -57,18 +57,15 @@ Me especializo en la creación de soluciones **innovadoras** que integran **aná
 ## 🌍  Proyectos Destacados
 
 ### 1. [**Gestión Digital del Archivo del Museo Thyssen-Bornemisza**](https://github.com/ibarajas248/coleccion-thyssen-bornemisza_)  
-> **Descripción:** Una aplicación web de **[funcionalidad del proyecto]**. Este proyecto utiliza **[tecnologías]** y está diseñado para **[objetivo del proyecto]**.  
-- **Tecnologías:** HTML, CSS, JavaScript, React
-- **Estado:** ✅ Completado
-
-### 2. [**Proyecto 2**](enlace-del-repositorio)  
-> **Descripción:** Un sistema de gestión para **[función del sistema]**, implementado con **[tecnologías]**.  
-- **Tecnologías:** Python, Django, PostgreSQL
+> **Descripción:** Una aplicación web para la extracción mediante **scraping** de la colección del Museo Thyssen-Bornemisza, permitiendo su gestión digital para investigación y consulta.  
+- **Tecnologías:** HTML, CSS, JavaScript, React  
 - **Estado:** 🔄 En desarrollo
 
-### 3. [**Proyecto 3**](enlace-del-repositorio)  
-> **Descripción:** Aplicación móvil para **[descripción de la app]**.  
-- **Tecnologías:** React Native, Firebase, Redux
+
+
+### 2. [**B2B ConnectSmart**](https://github.com/ibarajas248/b2b-ConnectSmart-hackaton)  
+> **Descripción:** Aplicacion ganadora de Hackathon TalentoTECH proveedores para Empresarios B2B. Busca un proveedor inteligentemente. 
+- **Tecnologías:** Python, MySQL, Selenium, Python.
 - **Estado:** ✅ Completado
 
 ### 3. [**Localizator Bogotá**](https://github.com/ibarajas248/Hackathon-TalentoTECH-Locales-Comerciales)
@@ -77,7 +74,10 @@ Me especializo en la creación de soluciones **innovadoras** que integran **aná
 > **Descripción:** Una solución de búsqueda y evaluación de locales comerciales en Bogotá, impulsada por analítica de datos para la toma de decisiones estratégicas.
 
 - **Tecnologías:** Python, Django, PostgreSQL, Google Places API
-- **Estado:** 🔄 En desarrollo
+- **Estado:** ✅ Completado
+
+
+
   
 
 ---
@@ -97,7 +97,7 @@ Si deseas colaborar en un proyecto, aprender algo nuevo o simplemente conversar 
 
 - ✉️ **Correo electrónico:** ivanbarajashurtado@gmail.com
 - 🌐 **LinkedIn:** [Tu Perfil LinkedIn](enlace-a-perfil)
-- 🐦 **Twitter:** [Tu Twitter](enlace-a-twitter)
+
 
 ---
 
