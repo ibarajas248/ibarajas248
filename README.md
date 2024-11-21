@@ -1,7 +1,11 @@
 # 🌟👨‍💻 Bienvenido a mi Portafolio 👨‍💻🌟
 
-[![Proyectos destacados](https://img.shields.io/badge/Ver%20Proyecto-blue?style=for-the-badge)](https://enlace-al-proyecto.com)
-[![Tutoriales](https://img.shields.io/badge/Ver%20Proyecto-blue?style=for-the-badge)](https://enlace-al-proyecto.com)
+[![Proyectos destacados](https://img.shields.io/badge/Proyectos%20Destacados-blue?style=for-the-badge)](https://enlace-al-proyecto.com)
+[![Tutoriales](https://img.shields.io/badge/Tutoriales-blue?style=for-the-badge)](https://enlace-al-proyecto.com)
+
+
+
+
 
 
 
