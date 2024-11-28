@@ -9,14 +9,9 @@
 
 
 
-¡Hola! Soy **Iván David Barajas Hurtado**, un **Analista de Datos** y **Desarrollador** con experiencia en la extracción de información valiosa para la toma de decisiones estratégicas que impulsan el éxito de los negocios. Me especializo en el análisis y visualización de grandes volúmenes de datos para generar **insights** que faciliten la optimización de procesos y la identificación de oportunidades de crecimiento. Además, tengo un enfoque integral en el desarrollo de **aplicaciones móviles**, donde me apasiona crear soluciones tecnológicas innovadoras y eficientes. A lo largo de mi carrera, he trabajado en proyectos que van desde la recopilación de datos hasta la implementación de sistemas escalables, con un fuerte compromiso por la mejora continua y el uso de herramientas de vanguardia. Mi objetivo es siempre contribuir a la **evolución digital** de las empresas, asegurando la calidad y el impacto de cada proyecto en el que participo.
+¡Hola! Soy **Iván David Barajas Hurtado**, un Analista de Datos y Desarrollador con experiencia en la extracción de información valiosa para la toma de decisiones estratégicas que impulsan el éxito de los negocios. Me especializo en el análisis y visualización de grandes volúmenes de datos para generar insights que faciliten la optimización de procesos y la identificación de oportunidades de crecimiento. Además, tengo un enfoque integral en el desarrollo de aplicaciones móviles, donde me apasiona crear soluciones tecnológicas innovadoras y eficientes. A lo largo de mi carrera, he trabajado en proyectos que van desde la recopilación de datos hasta la implementación de sistemas escalables, con un fuerte compromiso por la mejora continua y el uso de herramientas de vanguardia. Mi objetivo es siempre contribuir a la evolución digital de las empresas, asegurando la calidad y el impacto de cada proyecto en el que participo.
 
 
----
-
-## 🧑‍💻🧠 Sobre mí
-
-Soy un profesional que se especializa en convertir datos crudos en información relevante. Mi experiencia incluye la creación de **consultas SQL complejas**, análisis de grandes volúmenes de datos y la **presentación visual** de los resultados, lo que facilita la **toma de decisiones informadas** en todas las áreas de negocio.
 
 
 ## 🚀 Mis Habilidades
