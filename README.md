@@ -31,6 +31,9 @@
 
 ## 🌍  Proyectos Destacados
 
+
+![Gestión Digital del Archivo del Museo](https://enlace-imagen.com)
+
 ### 1. [**Gestión Digital del Archivo del Museo Thyssen-Bornemisza**](https://github.com/ibarajas248/coleccion-thyssen-bornemisza_)  
 > **Descripción:** Una aplicación web para la extracción mediante **scraping** de la colección del Museo Thyssen-Bornemisza, permitiendo su gestión digital para investigación y consulta.  
 - **Tecnologías:** HTML, CSS, JavaScript, React  
