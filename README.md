@@ -7,9 +7,11 @@
 
 
 
+¡Hola! Soy **Iván David Barajas Hurtado**, un Analista de Datos y Desarrollador. Mi pasión es transformar datos complejos en soluciones estratégicas e innovadoras para empresas. 
 
-
-¡Hola! Soy **Iván David Barajas Hurtado**, un Analista de Datos y Desarrollador con experiencia en la extracción de información valiosa para la toma de decisiones estratégicas que impulsan el éxito de los negocios. Me especializo en el análisis y visualización de grandes volúmenes de datos para generar insights que faciliten la optimización de procesos y la identificación de oportunidades de crecimiento. Además, tengo un enfoque integral en el desarrollo de aplicaciones móviles, donde me apasiona crear soluciones tecnológicas innovadoras y eficientes. A lo largo de mi carrera, he trabajado en proyectos que van desde la recopilación de datos hasta la implementación de sistemas escalables, con un fuerte compromiso por la mejora continua y el uso de herramientas de vanguardia. Mi objetivo es siempre contribuir a la evolución digital de las empresas, asegurando la calidad y el impacto de cada proyecto en el que participo.
+- 🎯 **Especialidades:** Análisis y visualización de datos, optimización de procesos, y desarrollo de aplicaciones móviles.  
+- 💻 **Enfoque:** Uso de herramientas avanzadas y metodologías ágiles para garantizar calidad e impacto en cada proyecto.  
+- 🚀 **Objetivo:** Contribuir a la evolución digital de las empresas mediante soluciones escalables y eficientes.
 
 
 
