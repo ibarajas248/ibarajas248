@@ -174,12 +174,6 @@ Si deseas colaborar en un proyecto, aprender algo nuevo o simplemente conversar 
 
 
 
----
-
-## 📚 Enlaces de Interés
-
-- 🌍 [Mi Blog Personal](enlace-a-blog)
-- 🌐 [Mi Web Personal](enlace-a-web)
 
 ---
 
